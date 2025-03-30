@@ -2,7 +2,7 @@
 
 A Chrome extension that helps you clean up the Faceit.com user interface by hiding unwanted elements.
 
-![Faceit UI Cleaner](assets/screenshot.png)
+![Faceit UI Cleaner](assets/Screenshot.png)
 
 ## Features
 
